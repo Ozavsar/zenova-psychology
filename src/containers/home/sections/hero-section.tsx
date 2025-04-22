@@ -28,7 +28,7 @@ const heroSlides = [
   },
   {
     id: 2,
-    image: "/images/home/hero/cocuk-ergen-danışmanlığı.jpg",
+    image: "/images/home/hero/cocuk-ergen-danismanligi.jpg",
     title: "Çocuk ve Ergen Danışmanlığı",
     subtitle: "Çocuğunuzun gelişimi için",
     description:
@@ -36,7 +36,7 @@ const heroSlides = [
   },
   {
     id: 3,
-    image: "/images/home/hero/aile-danışmanlığı.jpg",
+    image: "/images/home/hero/aile-danismanligi.jpg",
     title: "Çift ve Aile Danışmanlığı",
     subtitle: "İlişkilerinizi güçlendirin",
     description:

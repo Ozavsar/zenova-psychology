@@ -20,7 +20,7 @@ export default async function HomeContainer() {
         description="Profesyonel destek almak için ilk adımı atın. Zenova Psikoloji
             olarak, ruh sağlığınız için yanınızdayız. Size yardımcı olmak için
             buradayız."
-        backgroundImage="/images/home/hero/aile-danışmanlığı.jpg"
+        backgroundImage="/images/home/hero/aile-danismanligi.jpg"
       />
       <TestimonialsSection />
       <TeamSection teamMembers={teamMembers} />

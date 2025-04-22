@@ -22,10 +22,10 @@ import { AppointmentButton } from "@/components/shared";
 
 const services = [
   {
-    id: "bireysel-danışmanlık",
+    id: "bireysel-danismanlik",
     title: "Bireysel Danışmanlık",
     icon: UserGearIcon,
-    image: "/images/home/services/bireysel-danışmanlık.webp",
+    image: "/images/home/services/bireysel-danismanlik.webp",
     shortDescription:
       "Kişisel sorunlarınızı çözmek ve kendinizi daha iyi anlamak için bire bir danışmanlık seansları.",
     longDescription:
@@ -39,10 +39,10 @@ const services = [
     ],
   },
   {
-    id: "cift-danışmanlığı",
+    id: "cift-danismanligi",
     title: "Çift Danışmanlığı",
     icon: CoupleIcon,
-    image: "/images/home/services/cift-danışmanlığı.webp",
+    image: "/images/home/services/cift-danismanligi.webp",
     shortDescription:
       "İlişkinizi güçlendirmek ve iletişim sorunlarını çözmek için profesyonel destek.",
     longDescription:
@@ -56,10 +56,10 @@ const services = [
     ],
   },
   {
-    id: "aile-danışmanlığı",
+    id: "aile-danismanligi",
     title: "Aile Danışmanlığı",
     icon: FamilyIcon,
-    image: "/images/home/services/aile-danışmanlığı.webp",
+    image: "/images/home/services/aile-danismanligi.webp",
     shortDescription:
       "Aile içi ilişkileri güçlendirmek ve çatışmaları çözmek için aile odaklı danışmanlık.",
     longDescription:
@@ -73,10 +73,10 @@ const services = [
     ],
   },
   {
-    id: "cocuk-danışmanlığı",
+    id: "cocuk-danismanligi",
     title: "Çocuk Danışmanlığı",
     icon: ChildIcon,
-    image: "/images/home/services/cocuk-danışmanlığı.webp",
+    image: "/images/home/services/cocuk-danismanligi.webp",
     shortDescription:
       "Çocukların ve ergenlerin duygusal ve davranışsal sorunlarına yönelik özel danışmanlık.",
     longDescription:
@@ -91,10 +91,10 @@ const services = [
     ],
   },
   {
-    id: "ergen-danışmanlığı",
+    id: "ergen-danismanligi",
     title: "Ergen Danışmanlığı",
     icon: AdolescentIcon,
-    image: "/images/home/services/ergen-danışmanlığı.webp",
+    image: "/images/home/services/ergen-danismanligi.webp",
     shortDescription:
       "Çocukların ve ergenlerin duygusal ve davranışsal sorunlarına yönelik özel danışmanlık.",
     longDescription:
@@ -109,10 +109,10 @@ const services = [
     ],
   },
   {
-    id: "travma-danışmanlığı",
+    id: "travma-danismanligi",
     title: "Travma Danışmanlığı",
     icon: HeartCrackIcon,
-    image: "/images/home/services/travma-danışmanlığı.webp",
+    image: "/images/home/services/travma-danismanligi.webp",
     shortDescription:
       "Travmatik deneyimlerin üstesinden gelmek için özel danışmanlık teknikleri.",
     longDescription:
