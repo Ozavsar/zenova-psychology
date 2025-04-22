@@ -10,7 +10,7 @@ export default function HeaderBanner() {
         </p>
         <div className="flex items-start gap-6">
           {CONTACT_INFO.map(({ icon: Icon, label, href }, index) => (
-            <div key={index} className="flex items-start gap-2">
+            <div key={index} className="flex items-start gap-2 nth-2:whitespace-nowrap last:whitespace-nowrap">
               <Icon className="text-primary size-4" />
               {href ? (
                 <a
