@@ -17,6 +17,7 @@ import { ChevronRightIcon } from "@/components/icons";
 import { DEFAULT_VARIABLES } from "@/config/constants";
 import { ROUTES } from "@/config/routes";
 import type { Expert } from "@/types/strapi-types";
+import { cn } from "@/lib/utils";
 
 interface TeamSectionProps {
   teamMembers: Expert[];
@@ -31,7 +32,18 @@ export default function TeamSection({ teamMembers }: TeamSectionProps) {
           description="Alanında uzman ve deneyimli psikologlarımızla tanışın."
         />
 
-        <div className="mt-12 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        <div
+          className={cn(
+            "mt-12 grid gap-8",
+            "grid-cols-1 sm:grid-cols-2",
+            teamMembers.length === 3 && "xl:grid-cols-3",
+            teamMembers.length === 2 &&
+              "sm:mx-auto sm:max-w-3xl lg:grid-cols-2 xl:grid-cols-2",
+            teamMembers.length === 1 &&
+              "sm:grid-cols-1 lg:grid-cols-1 xl:grid-cols-1",
+            teamMembers.length > 3 && "lg:grid-cols-3 xl:grid-cols-4",
+          )}
+        >
           {teamMembers.map(
             ({ bio, image, name, expertTitle, specialities }, index) =>
               specialities && specialities.length > 0 ? (
