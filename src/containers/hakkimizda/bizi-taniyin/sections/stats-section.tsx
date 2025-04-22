@@ -12,7 +12,7 @@ export default function StatsSection() {
     { value: 13, label: "Yıllık Deneyim", suffix: "+" },
     { value: 12, label: "Uzman Psikolog", suffix: "" },
     { value: 5000, label: "Mutlu Danışan", suffix: "+" },
-    { value: 8, label: "Terapi Alanı", suffix: "" },
+    { value: 8, label: "Danışmanlık Alanı", suffix: "" },
   ];
 
   return (

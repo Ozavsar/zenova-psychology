@@ -28,10 +28,10 @@ export default function OurStorySection() {
                   </p>
                   <p>
                     Bugün, alanında uzman psikologlardan oluşan geniş bir
-                    ekiple, bireysel terapiden çift terapisine, aile
+                    ekiple, bireysel danışmanlıktan çift danışmanlığına, aile
                     danışmanlığından travma tedavisine kadar geniş bir yelpazede
                     hizmet sunuyoruz. Her danışanımızın benzersiz olduğuna
-                    inanıyor ve kişiye özel terapi yaklaşımları geliştiriyoruz.
+                    inanıyor ve kişiye özel danışmanlık yaklaşımları geliştiriyoruz.
                   </p>
                 </div>
               }

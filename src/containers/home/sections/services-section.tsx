@@ -22,14 +22,14 @@ import { AppointmentButton } from "@/components/shared";
 
 const services = [
   {
-    id: "bireysel-terapi",
-    title: "Bireysel Terapi",
+    id: "bireysel-danışmanlık",
+    title: "Bireysel Danışmanlık",
     icon: UserGearIcon,
-    image: "/images/home/services/bireysel-terapi.webp",
+    image: "/images/home/services/bireysel-danışmanlık.webp",
     shortDescription:
-      "Kişisel sorunlarınızı çözmek ve kendinizi daha iyi anlamak için bire bir terapi seansları.",
+      "Kişisel sorunlarınızı çözmek ve kendinizi daha iyi anlamak için bire bir danışmanlık seansları.",
     longDescription:
-      "Bireysel terapi, kişisel zorluklar, duygusal sıkıntılar veya davranış sorunları yaşayan bireylere özel olarak tasarlanmış bir terapi türüdür. Uzman psikologlarımız, depresyon, kaygı bozuklukları, travma sonrası stres bozukluğu, öfke kontrolü, özgüven sorunları ve kişisel gelişim gibi çeşitli konularda destek sağlar. Güvenli ve yargısız bir ortamda, düşüncelerinizi ve duygularınızı keşfetmenize, zorlukların üstesinden gelmenize ve daha sağlıklı başa çıkma mekanizmaları geliştirmenize yardımcı oluruz.",
+      "Bireysel danışmanlık, kişisel zorluklar, duygusal sıkıntılar veya davranış sorunları yaşayan bireylere özel olarak tasarlanmış bir danışmanlık türüdür. Uzman psikologlarımız, depresyon, kaygı bozuklukları, travma sonrası stres bozukluğu, öfke kontrolü, özgüven sorunları ve kişisel gelişim gibi çeşitli konularda destek sağlar. Güvenli ve yargısız bir ortamda, düşüncelerinizi ve duygularınızı keşfetmenize, zorlukların üstesinden gelmenize ve daha sağlıklı başa çıkma mekanizmaları geliştirmenize yardımcı oluruz.",
     benefits: [
       "Duygusal zorlukların üstesinden gelme",
       "Özgüven ve öz-farkındalık geliştirme",
@@ -39,14 +39,14 @@ const services = [
     ],
   },
   {
-    id: "cift-terapisi",
-    title: "Çift Terapisi",
+    id: "cift-danışmanlığı",
+    title: "Çift Danışmanlığı",
     icon: CoupleIcon,
-    image: "/images/home/services/cift-terapisi.webp",
+    image: "/images/home/services/cift-danışmanlığı.webp",
     shortDescription:
       "İlişkinizi güçlendirmek ve iletişim sorunlarını çözmek için profesyonel destek.",
     longDescription:
-      "Çift terapisi, ilişkilerinde zorluk yaşayan çiftlere yardımcı olmak için tasarlanmıştır. İletişim sorunları, güven eksikliği, çatışma çözümü, yakınlık sorunları veya yaşam değişiklikleri gibi konularda uzmanlaşmış terapistlerimiz, ilişkinizi güçlendirmenize ve daha sağlıklı bir bağ kurmanıza yardımcı olur. Terapide, her iki tarafın da duyulduğu ve anlaşıldığı güvenli bir ortam sağlayarak, çiftlerin birbirlerini daha iyi anlamalarını ve ilişkilerindeki zorlukları birlikte aşmalarını destekleriz.",
+      "Çift danışmanlığı, ilişkilerinde zorluk yaşayan çiftlere yardımcı olmak için tasarlanmıştır. İletişim sorunları, güven eksikliği, çatışma çözümü, yakınlık sorunları veya yaşam değişiklikleri gibi konularda uzmanlaşmış danışmanlarımız, ilişkinizi güçlendirmenize ve daha sağlıklı bir bağ kurmanıza yardımcı olur. Destek sürecinde, her iki tarafın da duyulduğu ve anlaşıldığı güvenli bir ortam sağlayarak, çiftlerin birbirlerini daha iyi anlamalarını ve ilişkilerindeki zorlukları birlikte aşmalarını destekleriz.",
     benefits: [
       "Etkili iletişim becerilerini geliştirme",
       "Çatışmaları sağlıklı bir şekilde çözme",
@@ -56,14 +56,14 @@ const services = [
     ],
   },
   {
-    id: "aile-terapisi",
-    title: "Aile Terapisi",
+    id: "aile-danışmanlığı",
+    title: "Aile Danışmanlığı",
     icon: FamilyIcon,
-    image: "/images/home/services/aile-terapisi.webp",
+    image: "/images/home/services/aile-danışmanlığı.webp",
     shortDescription:
-      "Aile içi ilişkileri güçlendirmek ve çatışmaları çözmek için aile odaklı terapi.",
+      "Aile içi ilişkileri güçlendirmek ve çatışmaları çözmek için aile odaklı danışmanlık.",
     longDescription:
-      "Aile terapisi, aile üyeleri arasındaki ilişkileri iyileştirmek ve aile içi sorunları çözmek için tasarlanmış bir terapi yaklaşımıdır. Aile dinamikleri, ebeveyn-çocuk ilişkileri, kardeş çatışmaları, ergenlik sorunları, boşanma süreci veya yeni bir aile üyesinin katılımı gibi konularda uzmanlaşmış terapistlerimiz, ailenizin daha sağlıklı iletişim kurmasına ve zorlukları birlikte aşmasına yardımcı olur. Terapide, her aile üyesinin sesinin duyulduğu ve değer gördüğü bir ortam yaratarak, ailenin bir bütün olarak güçlenmesini hedefleriz.",
+      "Aile danışmanlığı, aile üyeleri arasındaki ilişkileri iyileştirmek ve aile içi sorunları çözmek için tasarlanmış bir danışmanlık yaklaşımıdır. Aile dinamikleri, ebeveyn-çocuk ilişkileri, kardeş çatışmaları, ergenlik sorunları, boşanma süreci veya yeni bir aile üyesinin katılımı gibi konularda uzmanlaşmış danışmanlarımız, ailenizin daha sağlıklı iletişim kurmasına ve zorlukları birlikte aşmasına yardımcı olur. Destek sürecinde, her aile üyesinin sesinin duyulduğu ve değer gördüğü bir ortam yaratarak, ailenin bir bütün olarak güçlenmesini hedefleriz.",
     benefits: [
       "Aile içi iletişimi güçlendirme",
       "Çatışmaları yapıcı bir şekilde çözme",
@@ -73,14 +73,14 @@ const services = [
     ],
   },
   {
-    id: "cocuk-terapisi",
-    title: "Çocuk Terapisi",
+    id: "cocuk-danışmanlığı",
+    title: "Çocuk Danışmanlığı",
     icon: ChildIcon,
-    image: "/images/home/services/cocuk-terapisi.webp",
+    image: "/images/home/services/cocuk-danışmanlığı.webp",
     shortDescription:
-      "Çocukların ve ergenlerin duygusal ve davranışsal sorunlarına yönelik özel terapi.",
+      "Çocukların ve ergenlerin duygusal ve davranışsal sorunlarına yönelik özel danışmanlık.",
     longDescription:
-      "Çocuk terapisi, çocukların duygusal, davranışsal ve gelişimsel zorluklarını ele almak amacıyla özel olarak yapılandırılmış bir terapi sürecidir. Uzman çocuk psikologlarımız, dikkat eksikliği ve hiperaktivite bozukluğu (DEHB), kaygı, davranış sorunları, okul uyum problemleri, travma ve aile içi değişiklikler gibi konularda destek sağlar. Çocuğun yaşına ve gelişim düzeyine uygun oyun terapisi, sanat terapisi ve bilişsel davranışçı terapi gibi çeşitli yöntemler kullanarak, çocuğun duygusal iyilik halini ve sağlıklı gelişimini desteklemeyi hedefleriz.",
+      "Çocuk danışmanlığı, çocukların duygusal, davranışsal ve gelişimsel zorluklarını ele almak amacıyla özel olarak yapılandırılmış bir danışmanlık sürecidir. Uzman çocuk psikologlarımız, dikkat eksikliği ve hiperaktivite bozukluğu (DEHB), kaygı, davranış sorunları, okul uyum problemleri, travma ve aile içi değişiklikler gibi konularda destek sağlar. Çocuğun yaşına ve gelişim düzeyine uygun oyun danışmanlığı, sanat danışmanlığı ve bilişsel davranışçı danışmanlık gibi çeşitli yöntemler kullanarak, çocuğun duygusal iyilik halini ve sağlıklı gelişimini desteklemeyi hedefleriz.",
     benefits: [
       "Duyguları tanıma ve ifade etme becerilerini geliştirme",
       "Davranış sorunlarını anlama ve düzenleme",
@@ -91,14 +91,14 @@ const services = [
     ],
   },
   {
-    id: "ergen-terapisi",
-    title: "Ergen Terapisi",
+    id: "ergen-danışmanlığı",
+    title: "Ergen Danışmanlığı",
     icon: AdolescentIcon,
-    image: "/images/home/services/ergen-terapisi.webp",
+    image: "/images/home/services/ergen-danışmanlığı.webp",
     shortDescription:
-      "Çocukların ve ergenlerin duygusal ve davranışsal sorunlarına yönelik özel terapi.",
+      "Çocukların ve ergenlerin duygusal ve davranışsal sorunlarına yönelik özel danışmanlık.",
     longDescription:
-      "Ergen terapisi, gençlerin ergenlik dönemine özgü duygusal ve davranışsal zorluklarla başa çıkmasına yardımcı olmak için tasarlanmıştır. Ergen psikologlarımız, depresyon, kaygı bozuklukları, öfke yönetimi, kimlik gelişimi, okul sorunları, akran ilişkileri, sınav kaygısı ve aile içi çatışmalar gibi alanlarda gençlere profesyonel destek sunar. Terapide, ergenin kendini ifade edebileceği güvenli bir alan oluşturarak, özgüvenini güçlendirmeyi, sosyal becerilerini geliştirmeyi ve sağlıklı bir bireysel gelişim süreci geçirmesini amaçlarız.",
+      "Ergen danışmanlığı, gençlerin ergenlik dönemine özgü duygusal ve davranışsal zorluklarla başa çıkmasına yardımcı olmak için tasarlanmıştır. Ergen psikologlarımız, depresyon, kaygı bozuklukları, öfke yönetimi, kimlik gelişimi, okul sorunları, akran ilişkileri, sınav kaygısı ve aile içi çatışmalar gibi alanlarda gençlere profesyonel destek sunar. Destek sürecinde, ergenin kendini ifade edebileceği güvenli bir alan oluşturarak, özgüvenini güçlendirmeyi, sosyal becerilerini geliştirmeyi ve sağlıklı bir bireysel gelişim süreci geçirmesini amaçlarız.",
     benefits: [
       "Kimlik gelişimini destekleme",
       "Aile içi ve sosyal çatışmaları yapıcı şekilde çözme",
@@ -109,14 +109,14 @@ const services = [
     ],
   },
   {
-    id: "travma-terapisi",
-    title: "Travma Terapisi",
+    id: "travma-danışmanlığı",
+    title: "Travma Danışmanlığı",
     icon: HeartCrackIcon,
-    image: "/images/home/services/travma-terapisi.webp",
+    image: "/images/home/services/travma-danışmanlığı.webp",
     shortDescription:
-      "Travmatik deneyimlerin üstesinden gelmek için özel terapi teknikleri.",
+      "Travmatik deneyimlerin üstesinden gelmek için özel danışmanlık teknikleri.",
     longDescription:
-      "Travma terapisi, travmatik olayların etkilerini ele almak ve iyileşme sürecini desteklemek için özel olarak tasarlanmıştır. EMDR (Göz Hareketleriyle Duyarsızlaştırma ve Yeniden İşleme), Travma Odaklı Bilişsel Davranışçı Terapi (TF-BDT) ve diğer kanıta dayalı yaklaşımlar konusunda uzmanlaşmış terapistlerimiz, travma sonrası stres bozukluğu (TSSB), kompleks travma, çocukluk çağı travması ve diğer travmatik deneyimlerin üstesinden gelmenize yardımcı olur. Güvenli ve destekleyici bir ortamda, travmatik anıların etkisini azaltmak, tetikleyicilerle başa çıkmak ve yaşam kalitenizi artırmak için sizinle birlikte çalışırız.",
+      "Travma danışmanlığı, travmatik olayların etkilerini ele almak ve iyileşme sürecini desteklemek için özel olarak tasarlanmıştır. EMDR (Göz Hareketleriyle Duyarsızlaştırma ve Yeniden İşleme), Travma Odaklı Bilişsel Davranışçı Danışmanlık (TF-BDT) ve diğer kanıta dayalı yaklaşımlar konusunda uzmanlaşmış danışmanlarımız, travma sonrası stres bozukluğu (TSSB), kompleks travma, çocukluk çağı travması ve diğer travmatik deneyimlerin üstesinden gelmenize yardımcı olur. Güvenli ve destekleyici bir ortamda, travmatik anıların etkisini azaltmak, tetikleyicilerle başa çıkmak ve yaşam kalitenizi artırmak için sizinle birlikte çalışırız.",
     benefits: [
       "Travmatik anıların etkisini azaltma",
       "Tetikleyicilerle başa çıkma stratejileri",

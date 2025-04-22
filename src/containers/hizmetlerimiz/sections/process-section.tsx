@@ -7,8 +7,8 @@ export default function ProcessSection() {
     <section className="py-12 md:py-24">
       <div className="container px-4 sm:px-6">
         <TitleSection
-          title="Terapi Süreci"
-          description="Zenova Psikoloji'de terapi süreciniz nasıl ilerler? Adım adım terapi yolculuğunuzu keşfedin."
+          title="Danışmanlık Süreci"
+          description="Zenova Psikoloji'de danışmanlık süreciniz nasıl ilerler? Adım adım danışmanlık yolculuğunuzu keşfedin."
         />
 
         <div className="mx-auto mt-10 max-w-4xl md:mt-12">

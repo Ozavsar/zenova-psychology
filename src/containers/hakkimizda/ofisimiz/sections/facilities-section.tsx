@@ -11,21 +11,21 @@ const facilities = [
     image: "/images/home/hero/profesyonel-destek.jpg",
   },
   {
-    title: "Özel Terapi Odaları",
+    title: "Özel Danışmanlık Odaları",
     description:
-      "Ses yalıtımlı, konforlu ve güvenli bir ortam sağlayan özel tasarlanmış terapi odalarımız.",
+      "Ses yalıtımlı, konforlu ve güvenli bir ortam sağlayan özel tasarlanmış danışmanlık odalarımız.",
     image: "/images/home/hero/profesyonel-destek.jpg",
   },
   {
-    title: "Çocuk Terapi Odası",
+    title: "Çocuk Danışmanlık Odası",
     description:
-      "Çocukların kendilerini rahat hissedecekleri, oyuncaklar ve sanat malzemeleriyle donatılmış özel çocuk terapi odamız.",
+      "Çocukların kendilerini rahat hissedecekleri, oyuncaklar ve sanat malzemeleriyle donatılmış özel çocuk danışmanlık odamız.",
     image: "/images/home/hero/profesyonel-destek.jpg",
   },
   {
-    title: "Grup Terapi Salonu",
+    title: "Grup Danışmanlık Salonu",
     description:
-      "Grup terapileri ve workshoplar için tasarlanmış, rahat ve işlevsel grup terapi salonumuz.",
+      "Grup görüşmeleri ve workshoplar için tasarlanmış, rahat ve işlevsel grup danışmanlık salonumuz.",
     image: "/images/home/hero/profesyonel-destek.jpg",
   },
 ];

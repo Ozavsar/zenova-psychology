@@ -28,16 +28,16 @@ const heroSlides = [
   },
   {
     id: 2,
-    image: "/images/home/hero/cocuk-ergen-terapisi.jpg",
-    title: "Çocuk ve Ergen Terapisi",
+    image: "/images/home/hero/cocuk-ergen-danışmanlığı.jpg",
+    title: "Çocuk ve Ergen Danışmanlığı",
     subtitle: "Çocuğunuzun gelişimi için",
     description:
-      "Çocukların ve ergenlerin sağlıklı gelişimi için özel terapi programları sunuyoruz.",
+      "Çocukların ve ergenlerin sağlıklı gelişimi için özel danışmanlık programları sunuyoruz.",
   },
   {
     id: 3,
-    image: "/images/home/hero/aile-terapisi.jpg",
-    title: "Çift ve Aile Terapisi",
+    image: "/images/home/hero/aile-danışmanlığı.jpg",
+    title: "Çift ve Aile Danışmanlığı",
     subtitle: "İlişkilerinizi güçlendirin",
     description:
       "İlişkilerinizde yaşadığınız sorunları çözmek için profesyonel destek alın.",

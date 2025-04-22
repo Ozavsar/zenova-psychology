@@ -18,19 +18,19 @@ const officeImages = [
   },
   {
     src: "/images/home/hero/profesyonel-destek.jpg",
-    alt: "Zenova Psikoloji Terapi Odası 1",
+    alt: "Zenova Psikoloji Danışmanlık Odası 1",
   },
   {
     src: "/images/home/hero/profesyonel-destek.jpg",
-    alt: "Zenova Psikoloji Terapi Odası 2",
+    alt: "Zenova Psikoloji Danışmanlık Odası 2",
   },
   {
     src: "/images/home/hero/profesyonel-destek.jpg",
-    alt: "Zenova Psikoloji Çocuk Terapi Odası",
+    alt: "Zenova Psikoloji Çocuk Danışmanlık Odası",
   },
   {
     src: "/images/home/hero/profesyonel-destek.jpg",
-    alt: "Zenova Psikoloji Grup Terapi Odası",
+    alt: "Zenova Psikoloji Grup Danışmanlık Odası",
   },
   {
     src: "/images/home/hero/profesyonel-destek.jpg",
@@ -44,7 +44,7 @@ export default function OfficeGallerySection() {
       <TitleSection
         title="Ofis Galerimiz"
         description="Zenova Psikoloji'nin ferah ve rahatlatıcı ortamını keşfedin. Modern
-            tasarımlı ofisimiz, terapileriniz için güvenli ve konforlu bir alan
+            tasarımlı ofisimiz, destek süreciniz için güvenli ve konforlu bir alan
             sunar."
       />
 

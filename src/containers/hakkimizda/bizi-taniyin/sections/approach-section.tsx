@@ -12,7 +12,7 @@ export default function ApproachSection() {
           <div className="relative h-[400px] overflow-hidden rounded-lg">
             <Image
               src="/images/home/hero/profesyonel-destek.jpg"
-              alt="Zenova Psikoloji Terapi Seansı"
+              alt="Zenova Psikoloji Danışmanlık Seansı"
               fill
               className="object-cover"
             />
@@ -25,19 +25,19 @@ export default function ApproachSection() {
                 <div className="text-muted-foreground space-y-4">
                   <p>
                     Zenova Psikoloji&apos;de, her bireyin benzersiz olduğuna ve
-                    kişiye özel bir terapi yaklaşımı gerektirdiğine inanıyoruz.
-                    Bu nedenle, farklı terapi yöntemlerini bütünleştirerek,
+                    kişiye özel bir danışmanlık yaklaşımı gerektirdiğine inanıyoruz.
+                    Bu nedenle, farklı danışmanlık yöntemlerini bütünleştirerek,
                     danışanlarımızın ihtiyaçlarına en uygun tedavi planını
                     oluşturuyoruz.
                   </p>
                   <p>
-                    Bilişsel Davranışçı Terapi (BDT), Şema Terapi, EMDR,
-                    Psikodinamik Terapi ve Mindfulness gibi kanıta dayalı
+                    Bilişsel Davranışçı Danışmanlık (BDT), Şema Danışmanlık, EMDR,
+                    Psikodinamik Danışmanlık ve Mindfulness gibi kanıta dayalı
                     yaklaşımları kullanarak, danışanlarımızın sorunlarının
                     kökenine inmeyi ve kalıcı çözümler sunmayı hedefliyoruz.
                   </p>
                   <p>
-                    Terapide güvenli ve yargısız bir ortam yaratmak,
+                    Destek sürecinde güvenli ve yargısız bir ortam yaratmak,
                     danışanlarımızın kendilerini rahatça ifade edebilmeleri için
                     çok önemlidir. Bu nedenle, ilk seanstan itibaren güvene
                     dayalı bir terapötik ilişki kurmaya özen gösteriyoruz.

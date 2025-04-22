@@ -29,25 +29,25 @@ const testimonials = [
   {
     id: 1,
     name: "Ayşe Y.",
-    title: "Bireysel Terapi Danışanı",
+    title: "Bireysel Danışmanlık Danışanı",
     image: "/images/logo/zenova-logo-mark.png",
     quote:
-      "Zenova Psikoloji'de aldığım terapi seansları hayatımı değiştirdi. Artık kendimi daha iyi anlıyor ve sorunlarımla başa çıkabiliyorum. Dr. Elif Hanım'ın profesyonel yaklaşımı ve içten desteği sayesinde uzun süredir yaşadığım kaygı sorunlarımın üstesinden geldim.",
+      "Zenova Psikoloji'de aldığım danışmanlık seansları hayatımı değiştirdi. Artık kendimi daha iyi anlıyor ve sorunlarımla başa çıkabiliyorum. Dr. Elif Hanım'ın profesyonel yaklaşımı ve içten desteği sayesinde uzun süredir yaşadığım kaygı sorunlarımın üstesinden geldim.",
     rating: 5,
   },
   {
     id: 2,
     name: "Mehmet K.",
-    title: "Çift Terapisi Danışanı",
+    title: "Çift Danışmanlığı Danışanı",
     image: "/images/logo/zenova-logo-mark.png",
     quote:
-      "Eşimle yaşadığımız iletişim sorunları için aldığımız çift terapisi sayesinde ilişkimiz çok daha güçlendi. Terapistimiz Ahmet Bey, her iki tarafı da anlayarak sorunlarımızı çözmemize yardımcı oldu. Artık birbirimizi daha iyi anlıyor ve sorunlarımızı yapıcı bir şekilde çözebiliyoruz.",
+      "Eşimle yaşadığımız iletişim sorunları için aldığımız çift danışmanlığı sayesinde ilişkimiz çok daha güçlendi. Uzmanımız Ahmet Bey, her iki tarafı da anlayarak sorunlarımızı çözmemize yardımcı oldu. Artık birbirimizi daha iyi anlıyor ve sorunlarımızı yapıcı bir şekilde çözebiliyoruz.",
     rating: 5,
   },
   {
     id: 3,
     name: "Zeynep A.",
-    title: "Aile Terapisi Danışanı",
+    title: "Aile Danışmanlığı Danışanı",
     image: "/images/logo/zenova-logo-mark.png",
     quote:
       "Oğlumun davranış sorunları için aldığımız destek sayesinde aile içi huzurumuzu yeniden kazandık. Selin Hanım'ın sabırlı ve anlayışlı yaklaşımı, hem oğlumuzun hem de bizim ebeveynler olarak gelişmemize büyük katkı sağladı. Artık daha sağlıklı bir aile dinamiğine sahibiz.",
@@ -56,19 +56,19 @@ const testimonials = [
   {
     id: 4,
     name: "Ali R.",
-    title: "Travma Terapisi Danışanı",
+    title: "Travma Danışmanlığı Danışanı",
     image: "/images/logo/zenova-logo-mark.png",
     quote:
-      "Yaşadığım trafik kazası sonrası gelişen travma belirtileri için Zenova Psikoloji'ye başvurdum. Burak Bey'in EMDR terapisi yaklaşımı sayesinde, kaza anılarının beni etkileme şiddetini azalttık ve normal hayatıma dönmeyi başardım. Profesyonel ve güven verici yaklaşımları için çok teşekkür ederim.",
+      "Yaşadığım trafik kazası sonrası gelişen travma belirtileri için Zenova Psikoloji'ye başvurdum. Burak Bey'in EMDR danışmanlığı yaklaşımı sayesinde, kaza anılarının beni etkileme şiddetini azalttık ve normal hayatıma dönmeyi başardım. Profesyonel ve güven verici yaklaşımları için çok teşekkür ederim.",
     rating: 5,
   },
   {
     id: 5,
     name: "Deniz T.",
-    title: "Bireysel Terapi Danışanı",
+    title: "Bireysel Danışmanlık Danışanı",
     image: "/images/logo/zenova-logo-mark.png",
     quote:
-      "İş hayatındaki stres ve tükenmişlik hissiyle başa çıkmakta zorlanıyordum. Zenova Psikoloji'deki terapistim, hem iş-yaşam dengemi kurmama hem de kendime daha fazla değer vermeme yardımcı oldu. Artık sınırlarımı koruyabiliyor ve hayattan daha fazla keyif alabiliyorum.",
+      "İş hayatındaki stres ve tükenmişlik hissiyle başa çıkmakta zorlanıyordum. Zenova Psikoloji'deki danışmanım, hem iş-yaşam dengemi kurmama hem de kendime daha fazla değer vermeme yardımcı oldu. Artık sınırlarımı koruyabiliyor ve hayattan daha fazla keyif alabiliyorum.",
     rating: 4,
   },
 ];

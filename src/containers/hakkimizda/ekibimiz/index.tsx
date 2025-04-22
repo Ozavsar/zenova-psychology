@@ -13,7 +13,7 @@ export default async function TeamContainer() {
         title="Uzman Ekibimiz"
         description="Zenova Psikoloji'de, alanında uzman ve deneyimli psikologlardan
             oluşan profesyonel bir ekip ile hizmet veriyoruz. Her biri kendi
-            alanında uzmanlaşmış terapistlerimizle tanışın."
+            alanında uzmanlaşmış danışmanlarımızla tanışın."
       />
       <TeamMembersSection branchList={branchList} teamMembers={teamMembers} />
       <JoinOurTeamSection />

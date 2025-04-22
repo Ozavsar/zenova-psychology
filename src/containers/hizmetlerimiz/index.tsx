@@ -11,7 +11,7 @@ export default function ServicesContainer() {
     <main className="flex flex-col">
       <HeroSection
         title="Zenova Psikoloji Hizmetleri"
-        description="Zenova Psikoloji olarak, bireylerin ve ailelerin ruh sağlığı ihtiyaçlarına yönelik kapsamlı ve profesyonel hizmetler sunuyoruz. Her danışanımızın benzersiz ihtiyaçlarına uygun, kanıta dayalı terapi yaklaşımları kullanıyoruz."
+        description="Zenova Psikoloji olarak, bireylerin ve ailelerin ruh sağlığı ihtiyaçlarına yönelik kapsamlı ve profesyonel hizmetler sunuyoruz. Her danışanımızın benzersiz ihtiyaçlarına uygun, kanıta dayalı danışmanlık yaklaşımları kullanıyoruz."
       />
       <ServicesSection />
       <DetailedServicesSection />
@@ -19,7 +19,7 @@ export default function ServicesContainer() {
       <CTASection
         title="Profesyonel Destek İçin İlk Adımı Atın"
         description="Zenova Psikoloji olarak, ruh sağlığınız için yanınızdayız. Uzman
-            ekibimizle size en uygun terapi hizmetini sunmak için hazırız."
+            ekibimizle size en uygun danışmanlık hizmetini sunmak için hazırız."
       />
     </main>
   );
