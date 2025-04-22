@@ -62,25 +62,21 @@ export default function BlogPostCard({ post }: IPostCardProps) {
           </p>
         </CardDescription>
       </CardHeader>
-      <CardFooter className="mt-auto flex items-center justify-between border-t p-4">
-        <div className="flex gap-2">
-          <UserIcon className="text-muted-foreground size-4" />
-          <span className="text-muted-foreground text-sm">
+      <CardFooter className="*:text-muted-foreground mt-auto flex items-center justify-between gap-4 border-t p-4 *:text-xs">
+        <div className="flex gap-1 2xl:gap-2">
+          <UserIcon className="size-3 2xl:size-4" />
+          <span className="whitespace-nowrap">
             {post.expert?.expertTitle} {formatName(post.expert?.name)}
           </span>
         </div>
-        <div className="flex items-center gap-4">
-          <div className="flex gap-1">
-            <CalendarIcon className="text-muted-foreground size-4" />
-            <span className="text-muted-foreground text-sm">
-              {formatDate(post.publishedAt)}
-            </span>
+        <div className="flex items-center gap-2 *:flex *:gap-1 *:2xl:gap-2">
+          <div>
+            <CalendarIcon className="size-3 2xl:size-4" />
+            <span>{formatDate(post.publishedAt)}</span>
           </div>
-          <div className="flex gap-1">
-            <ClockIcon className="text-muted-foreground size-4" />
-            <span className="text-muted-foreground text-sm">
-              {calculateReadingTime(post.content)}dk
-            </span>
+          <div>
+            <ClockIcon className="size-3 2xl:size-4" />
+            <span>{calculateReadingTime(post.content)}dk</span>
           </div>
         </div>
       </CardFooter>
